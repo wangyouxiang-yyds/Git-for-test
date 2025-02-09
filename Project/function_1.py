@@ -1,3 +1,4 @@
+
 def function1(number):
 
     num = int(input(number))
@@ -9,3 +10,7 @@ def function1(number):
     else:
         print(f"{num} is eqaul 0")
 
+def add_sixty_nine(number):
+    num = int(input(number))
+    return num + 69
+    
