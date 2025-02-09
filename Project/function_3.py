@@ -1,4 +1,4 @@
-def function2(number):
+def function3(number):
 
     num = int(input(number))
 
