@@ -17,3 +17,8 @@ def add_sixty_nine(number):
 def minus_seventy_eight(number):
     num = int(input(number))
     return num + 78
+
+def for_loop(number):
+    
+    for i in number:
+        print(i)
