@@ -14,3 +14,6 @@ def add_sixty_nine(number):
     num = int(input(number))
     return num + 69
     
+def minus_seventy_eight(number):
+    num = int(input(number))
+    return num + 78
