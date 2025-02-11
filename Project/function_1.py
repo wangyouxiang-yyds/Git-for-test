@@ -18,3 +18,11 @@ def add_sixty_nine(number):
 def this_function_will_cause_conflict():
     print("abcdefg")
     
+def minus_seventy_eight(number):
+    num = int(input(number))
+    return num + 78
+
+def for_loop(number):
+    
+    for i in number:
+        print(i)
