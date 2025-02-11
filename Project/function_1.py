@@ -25,4 +25,6 @@ def minus_seventy_eight(number):
 def for_loop(number):
     
     for i in number:
-        print(i)
+        for j in number:
+            for k in number:
+                print(i * j * k)
