@@ -13,4 +13,8 @@ def function1(number):
 def add_sixty_nine(number):
     num = int(input(number))
     return num + 69
+
+
+def this_function_will_cause_conflict():
+    print("abcdefg")
     
